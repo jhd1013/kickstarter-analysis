@@ -6,7 +6,7 @@ The purpose of this analysis is to reveal trends in crowdfunding for theater pro
 
 ## Analysis and Challenges
 
-For reference, the Excel worksheet used for the analyses described below can be found [here](Kickstarter_Challenge.xls).
+For reference, the Excel worksheet used for the analyses described below can be found [here](https://github.com/jhd1013/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx).
 
 ### Analysis of Outcomes Based on Launch Date
 
