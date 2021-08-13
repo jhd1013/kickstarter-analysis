@@ -2,7 +2,7 @@
 
 ## Overview of Project
 ### Purpose
-The purpose of this analysis is to reveal trends in crowdfunding for theater projects with respect to funding campaign launch date and goals.  This analysis uses data from the popular Kickstarter crowdfunding platform.  Revealing trends that influence the success or failure of a campaign will give our client very useful insight that can be used to maximize the odds of success for their own campaign.
+The purpose of this analysis is to reveal trends in crowdfunding for theater projects with respect to funding campaign launch date and goals.  This analysis uses data from the popular Kickstarter crowdfunding platform.  Revealing trends that influence the success or failure of a campaign can offer useful insight that can be used to plan a successful campaign.
 
 ## Analysis and Challenges
 
@@ -30,7 +30,7 @@ Where column D of the Kickstarter sheet is the funding goal, column F is the out
 </figure>
 
 ### Challenges and Difficulties Encountered
-A key challenge when working with Excel is formula readability.  Long formulas on a single line of text can be difficult to read and troubleshoot if a mistake is made when entering that formula. To manage this I often build up the formulas incrementally and confirming it is doing what I expect with every increment.
+A key challenge when working with Excel is formula readability.  Long formulas on a single line of text can be difficult to read and troubleshoot if a mistake is made when entering that formula. To manage this I often build up the formulas incrementally and confirm that they are doing what I expect with every increment.
 
 ## Results
 
@@ -48,7 +48,7 @@ A key challenge when working with Excel is formula readability.  Long formulas o
 
     A key limitation of the data is the lack of a qualitative measurement of a given campaign's overall appeal to the Kickstarter community.  Such a measurement would allow us to isolate unpopular campaigns and better understand how other variables affect the success of the campaign.
 
-    Also, there is no geographic or demographic data for the campaigns or their backers.  This data would help us provide a more accurate forecast and recommendation for our client based on her location.  This would be particularly useful for theater campaigns since certain locales and populations are likely to have much more interest in supporting them.
+    Also, there is no geographic or demographic data for the campaigns or their backers.  This data would help us provide a more accurate forecast based on the locale that would benefit from the results of the campaign.  This would be particularly useful for theater campaigns since certain locales and populations value theater more than others.
 
 - What are some other possible tables and/or graphs that we could create?
 
