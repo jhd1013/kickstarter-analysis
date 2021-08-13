@@ -36,10 +36,24 @@ A key challenge when working with Excel is formula readability.  Long formulas o
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-???? The first conclusion we can draw from the Outcomes based on Launch Date is that the outcome is generally not affected by launch date unless it is launched in December (maybe, the pct success is higher in spring but number of failures/cancels is flat).   number  of failures and cancellations is relatively flat throughout the year and the total number of campaign launched
+    The first conclusion we can draw from the outcomes based on launch data analysis is that many more campaigns are launched in the spring than any other time of the year, and those campaigns are largely successful.  In particular, May is a very popular launch date.  
+
+    In the opposite, Q3 of the calendar year is both unpopular and and larger percentage of the campaigns end in failure or cancellation.
 
 - What can you conclude about the Outcomes based on Goals?
 
+    The largest number of successful campaigns are in the $0-5000 range.  There is a clear drop after $5000 and failures begin to exceed successes after $15,000.
+
 - What are some limitations of this dataset?
 
+    A key limitation of the data is the lack of a qualitative measurement of a given campaign's overall appeal to the Kickstarter community.  Such a measurement would allow us to isolate unpopular campaigns and better understand how other variables affect the success of the campaign.
+
+    Also, there is no geographic or demographic data for the campaigns or their backers.  This data would help us provide a more accurate forecast and recommendation for our client based on her location.  This would be particularly useful for theater campaigns since certain locales and populations are likely to have much more interest in supporting them.
+
 - What are some other possible tables and/or graphs that we could create?
+
+    With the data provided we could plot the percentage funded by month to enhance our understanding of the outcomes by month data.  If outcomes are both more likely to be successful and more successful in terms of funding when launched in Q2 of the calendar year strengthen the argument that Q2 is a good time to launch a campaign.  
+
+    Another interesting analysis might be outcome vs. campaign duration and pledges vs. campaign duration.  Are longer campaigns more likely to be successful?
+
+    The data also allows us to compute the average donation per backer.  We can plot this against outcomes, time of year, and goal to see if any of those variables influence the average donation.  
